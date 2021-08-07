@@ -1,0 +1,7 @@
+.td1, .th1 {
+    padding: 3px; /* Поля вокруг содержимого таблицы */
+    border: 1px solid black; /* Параметры рамки */
+   }
+   .th1 {
+    background: #b0e0e6; /* Цвет фона */
+   }

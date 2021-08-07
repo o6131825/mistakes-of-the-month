@@ -1,0 +1,30 @@
+.botmarg {
+  padding: 10px;
+}
+
+.mytab {
+
+margin: auto;
+width: 100%;
+
+}
+
+.rowgr{
+  background-color: rgb(166, 255, 130);
+}
+
+.rowsa{
+  background-color: rgb(130, 209, 255);
+}
+
+.rowwms{
+  background-color: rgb(243, 255, 130);
+}
+
+.rowff{
+  background-color: rgb(255, 130, 130);
+}
+
+.thead-nam {
+  visibility: hidden;
+}
